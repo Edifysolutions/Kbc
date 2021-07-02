@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://theroothub.com/kbc/index.html</loc>
+    <lastmod>2019-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://theroothub.com/kbc/images/photography.png</image:loc>
+      <image:caption>Photography bootcamp in Uyo, Akwa Ibom</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://theroothub.com/kbc/images/animation.png</image:loc>
+      <image:caption>animation bootcamp in Uyo, Akwa Ibom</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://theroothub.com/kbc/images/gaming_20k.png</image:loc>
+      <image:caption>Gaming bootcamp in Uyo, Akwa Ibom</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://theroothub.com/kbc/images/vr.png</image:loc>
+      <image:caption>3d virtual reality bootcamp in Uyo, Akwa Ibom</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://theroothub.com/kbc/images/roothub-for-kids.svg</image:loc>
+      <image:caption>Roothub Kids Holiday Bootcamp</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://theroothub.com/kbc/images/photography72x82.png</image:loc>
+      <image:caption>Photography bootcamp in Uyo, Akwa Ibom</image:caption>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,52 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="theroothub.com/kbc" resolutions="1x" timestamp="1562686758630">
+  <folder name="fonts">
+    <file name="futura bk bt book italic.woff" crc="211834772"/>
+    <file name="futura bk bt book italic.eot" crc="3761743199"/>
+    <file name="futura bk bt book italic.svg" crc="4176630011"/>
+    <file name="futura bold.woff" crc="4078088936"/>
+    <file name="futura bold.eot" crc="384575177"/>
+    <file name="futura bold.svg" crc="4278037453"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4167948798" ref="index"/>
+    <file name="nomq_index.css" crc="239268585" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3947544460" ref="index"/>
+    <file name="photography.png" crc="486962661" seo="true" ref="index">
+      <caption webpage="index" alt="Photography bootcamp in Uyo, Akwa Ibom"/>
+    </file>
+    <file name="animation.png" crc="3834177344" seo="true" ref="index">
+      <caption webpage="index" alt="animation bootcamp in Uyo, Akwa Ibom"/>
+      <caption webpage="index" alt="animation bootcamp in Uyo, Akwa Ibom"/>
+    </file>
+    <file name="gaming_20k.png" crc="411616106" seo="true" ref="index">
+      <caption webpage="index" alt="Gaming bootcamp in Uyo, Akwa Ibom"/>
+      <caption webpage="index" alt="Gaming bootcamp in Uyo, Akwa Ibom"/>
+    </file>
+    <file name="vr.png" crc="250629911" seo="true" ref="index">
+      <caption webpage="index" alt="3d virtual reality bootcamp in Uyo, Akwa Ibom"/>
+      <caption webpage="index" alt="3d virtual reality bootcamp in Uyo, Akwa Ibom"/>
+    </file>
+    <file name="roothub-for-kids.svg" crc="88434684" seo="true" ref="index">
+      <caption webpage="index" alt="Roothub Kids Holiday Bootcamp"/>
+      <caption webpage="index" alt="Roothub Kids Holiday Bootcamp"/>
+    </file>
+    <file name="roothub-for-kids_poster_.png" crc="83028165" ref="index"/>
+    <file name="photography72x82.png" crc="465121122" seo="true" ref="index">
+      <caption webpage="index" alt="Photography bootcamp in Uyo, Akwa Ibom"/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4243741900" seo="true" mt="1562686732541" redirect="true"/>
+</manifest>
